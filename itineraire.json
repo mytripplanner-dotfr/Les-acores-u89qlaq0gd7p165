@@ -1,0 +1,306 @@
+{
+  "pays": "Portugal",
+  "drapeau": "🇵🇹",
+  "symbole": "🌋",
+  "titre": "Évasion Volcanique et Douceur aux Açores",
+  "budget_total": "Environ 2050 €/personne",
+  "duree": "6 jours",
+  "temps_vol": "9h30 (depuis Girard, États-Unis, via Chicago O'Hare)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à São Miguel et Charme de Ponta Delgada",
+      "legende": "Après un vol transatlantique, atterrissez en douceur sur l'île de São Miguel. Installez-vous à Ponta Delgada, la capitale, et laissez-vous charmer par ses rues historiques, son architecture typique et l'ambiance paisible de l'Atlantique. Une première journée pour se détendre et s'imprégner de l'atmosphère açorienne.",
+      "lieu": "Ponta Delgada, São Miguel",
+      "activites": [
+        "<strong>🛬 Arrivée à Ponta Delgada</strong>: Récupération du véhicule de location et transfert vers l'hôtel.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Détendez-vous et préparez-vous pour l'exploration.",
+        "<strong>🚶‍♂️ Balade dans le centre historique de Ponta Delgada</strong>: Découvrez les Portas da Cidade, l'église de São Sebastião et le front de mer."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport João Paulo II, Ponta Delgada",
+          "categorie": "Aéroport",
+          "coords": { "lat": 37.7412, "lng": -25.6977 }
+        },
+        {
+          "nom_recherche": "Portas da Cidade, Ponta Delgada",
+          "categorie": "Monument",
+          "coords": { "lat": 37.7857, "lng": -25.6698 }
+        }
+      ],
+      "illustration": "azores_day1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Location de voiture",
+          "texte": "Indispensable pour explorer les Açores. Réservez à l'avance, surtout en haute saison."
+        },
+        {
+          "symbole": "🍽️",
+          "titre": "Dîner",
+          "texte": "Goûtez aux fruits de mer frais dans un restaurant local du port de Ponta Delgada."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "♨️",
+      "titre": "Les Merveilles Géothermales de Furnas",
+      "legende": "Plongez au cœur de l'activité volcanique de São Miguel en explorant la vallée de Furnas. Détendez-vous dans des sources chaudes naturelles aux vertus thérapeutiques et découvrez des paysages uniques où la terre bouillonne. Une journée dédiée à la relaxation et à la découverte des forces de la nature.",
+      "lieu": "Furnas, São Miguel",
+      "activites": [
+        "<strong>🌳 Visite du Parque Terra Nostra</strong>: Flânez dans ce jardin botanique luxuriant et baignez-vous dans sa piscine thermale ferrugineuse.",
+        "<strong>♨️ Bains à Poça da Dona Beija</strong>: Profitez de plusieurs bassins d'eau chaude naturelle, parfaits pour la détente.",
+        "<strong>🍲 Déjeuner \"Cozido das Furnas\"</strong>: Dégustez ce plat traditionnel cuit pendant des heures dans le sol volcanique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Parque Terra Nostra, Furnas",
+          "categorie": "Jardin / Sources chaudes",
+          "coords": { "lat": 37.7735, "lng": -25.3135 }
+        },
+        {
+          "nom_recherche": "Poça da Dona Beija, Furnas",
+          "categorie": "Sources chaudes",
+          "coords": { "lat": 37.7748, "lng": -25.3117 }
+        },
+        {
+          "nom_recherche": "Lagoa das Furnas, Furnas",
+          "categorie": "Lac / Site géothermique",
+          "coords": { "lat": 37.7667, "lng": -25.3233 }
+        }
+      ],
+      "illustration": "azores_day2.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Bon à savoir",
+          "texte": "Les eaux ferrugineuses peuvent tacher les maillots de bain clairs. Prévoyez un maillot foncé!"
+        },
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Balade",
+          "texte": "Une promenade autour du lac de Furnas permet d'observer les \"fumaroles\" où le Cozido est cuit."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏞️",
+      "titre": "Les Paysages Iconiques de Sete Cidades",
+      "legende": "Explorez l'ouest de São Miguel, dominé par l'impressionnante caldeira de Sete Cidades. Admirez les vues panoramiques sur les lacs jumeaux, l'un bleu et l'autre vert, et profitez d'une balade paisible dans ce cadre naturel époustouflant. Une journée pour capturer des images mémorables et respirer l'air pur de l'île.",
+      "lieu": "Sete Cidades, São Miguel",
+      "activites": [
+        "<strong>👀 Miradouro da Vista do Rei</strong>: Profitez de la vue la plus célèbre sur les lacs de Sete Cidades.",
+        "<strong>🚶‍♀️ Balade autour des lacs de Sete Cidades</strong>: Descendez dans la caldeira pour une promenade relaxante au bord de l'eau.",
+        "<strong>🍍 Visite d'une plantation d'ananas</strong>: Découvrez la culture de l'ananas açorien sous serre et dégustez le fruit local."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Miradouro da Vista do Rei, Sete Cidades",
+          "categorie": "Point de vue",
+          "coords": { "lat": 37.8592, "lng": -25.7925 }
+        },
+        {
+          "nom_recherche": "Lagoa das Sete Cidades, Sete Cidades",
+          "categorie": "Lac",
+          "coords": { "lat": 37.8650, "lng": -25.7800 }
+        },
+        {
+          "nom_recherche": "Plantação de Ananás dos Açores, Ponta Delgada",
+          "categorie": "Ferme",
+          "coords": { "lat": 37.7660, "lng": -25.6840 }
+        }
+      ],
+      "illustration": "azores_day3.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Photographie",
+          "texte": "Le Miradouro da Vista do Rei offre des opportunités de photos incroyables, surtout par beau temps."
+        },
+        {
+          "symbole": "🚶‍♂️",
+          "titre": "Option douce",
+          "texte": "Pour une balade encore plus douce, longez simplement les rives des lacs sans monter aux points de vue."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🌿",
+      "titre": "Lagoa do Fogo et les Plantations de Thé",
+      "legende": "Aventurez-vous au centre de l'île pour découvrir la beauté sauvage de Lagoa do Fogo, un lac niché dans un cratère volcanique. Poursuivez votre exploration avec une immersion dans l'histoire du thé aux Açores, en visitant les uniques plantations de thé d'Europe. Une journée entre nature préservée et patrimoine agricole.",
+      "lieu": "Lagoa do Fogo / Ribeira Grande, São Miguel",
+      "activites": [
+        "<strong>⛰️ Miradouro da Lagoa do Fogo</strong>: Admirez la vue imprenable sur ce lac d'une beauté sauvage, souvent entouré de brume.",
+        "<strong>♨️ Détente à Caldeira Velha</strong>: Baignez-vous dans les piscines naturelles d'eau chaude, dont une sous une cascade.",
+        "<strong>☕ Visite de la Fábrica de Chá Gorreana</strong>: Explorez la plus ancienne plantation de thé d'Europe et dégustez un thé local."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Miradouro da Lagoa do Fogo, Lagoa",
+          "categorie": "Point de vue",
+          "coords": { "lat": 37.7600, "lng": -25.4750 }
+        },
+        {
+          "nom_recherche": "Caldeira Velha, Ribeira Grande",
+          "categorie": "Sources chaudes",
+          "coords": { "lat": 37.7800, "lng": -25.4700 }
+        },
+        {
+          "nom_recherche": "Fábrica de Chá Gorreana, Maia",
+          "categorie": "Plantation de thé",
+          "coords": { "lat": 37.8280, "lng": -25.4050 }
+        }
+      ],
+      "illustration": "azores_day4.jpg",
+      "encarts": [
+        {
+          "symbole": "☁️",
+          "titre": "Météo",
+          "texte": "Le temps peut changer rapidement autour de Lagoa do Fogo. Prévoyez des vêtements adaptés."
+        },
+        {
+          "symbole": "🌿",
+          "titre": "Écologie",
+          "texte": "Caldeira Velha est une réserve naturelle. Respectez les lieux et la faune locale."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🌊",
+      "titre": "Côte Est et Piscines Naturelles",
+      "legende": "Découvrez la beauté sauvage de la côte est de São Miguel, avec ses falaises abruptes et ses vues imprenables sur l'océan. Profitez d'une baignade relaxante dans des piscines naturelles formées par la roche volcanique, offrant une expérience unique au bord de l'Atlantique. Une journée pour apprécier la force et la sérénité de l'océan.",
+      "lieu": "Nordeste / Vila Franca do Campo, São Miguel",
+      "activites": [
+        "<strong>🌅 Miradouro da Ponta da Madrugada</strong>: Admirez un lever de soleil spectaculaire (si vous êtes matinal) ou une vue magnifique sur la côte.",
+        "<strong>🌸 Visite du Parc Naturel de Ribeira dos Caldeirões</strong>: Un lieu enchanteur avec des cascades, des moulins à eau et une végétation luxuriante.",
+        "<strong>🏊‍♀️ Baignade aux piscines naturelles de Mosteiros ou de Lagoa</strong>: Détendez-vous dans ces bassins d'eau de mer protégés par la roche volcanique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Miradouro da Ponta da Madrugada, Nordeste",
+          "categorie": "Point de vue",
+          "coords": { "lat": 37.8200, "lng": -25.1300 }
+        },
+        {
+          "nom_recherche": "Parque Natural da Ribeira dos Caldeirões, Nordeste",
+          "categorie": "Parc naturel",
+          "coords": { "lat": 37.8500, "lng": -25.2200 }
+        },
+        {
+          "nom_recherche": "Piscines Naturelles de Mosteiros, Mosteiros",
+          "categorie": "Piscines naturelles",
+          "coords": { "lat": 37.8900, "lng": -25.8200 }
+        }
+      ],
+      "illustration": "azores_day5.jpg",
+      "encarts": [
+        {
+          "symbole": "☀️",
+          "titre": "Baignade",
+          "texte": "Les piscines naturelles sont idéales pour se rafraîchir, mais vérifiez les marées pour la meilleure expérience."
+        },
+        {
+          "symbole": "🌺",
+          "titre": "Flore",
+          "texte": "La région de Nordeste est réputée pour ses jardins fleuris et sa végétation luxuriante."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🛫",
+      "titre": "Derniers Souvenirs et Départ",
+      "legende": "Profitez de vos dernières heures sur l'île de São Miguel pour quelques achats de souvenirs ou une dernière promenade relaxante. Emportez avec vous les images et les sensations de cette île volcanique, riche en paysages époustouflants et en moments de pure détente. Il est temps de dire au revoir aux Açores, la tête pleine de souvenirs.",
+      "lieu": "Ponta Delgada, São Miguel",
+      "activites": [
+        "<strong>🛍️ Achats de souvenirs</strong>: Trouvez des produits locaux comme le thé, l'ananas, ou des objets artisanaux à Ponta Delgada.",
+        "<strong>☕ Dernier café açorien</strong>: Savourez un dernier moment de tranquillité dans un café du centre-ville.",
+        "<strong>🛫 Départ de l'aéroport de Ponta Delgada</strong>: Restitution du véhicule et vol retour vers Girard, États-Unis."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Mercado da Graça, Ponta Delgada",
+          "categorie": "Marché",
+          "coords": { "lat": 37.7870, "lng": -25.6700 }
+        },
+        {
+          "nom_recherche": "Aéroport João Paulo II, Ponta Delgada",
+          "categorie": "Aéroport",
+          "coords": { "lat": 37.7412, "lng": -25.6977 }
+        }
+      ],
+      "illustration": "azores_day6.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Idées cadeaux",
+          "texte": "Le thé Gorreana, le fromage de l'île, ou des liqueurs locales sont d'excellents souvenirs."
+        },
+        {
+          "symbole": "⏰",
+          "titre": "Conseil",
+          "texte": "Prévoyez suffisamment de temps pour la restitution de la voiture et les formalités à l'aéroport."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 1168 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 200 €/pers (location voiture + essence)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "Environ 350 €/pers (50-70€/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 250 €/pers (base 3* pour 5 nuits)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 75 €/pers (entrées sources chaudes, musées)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" },
+    { "titre": "Avril et Octobre (hors saison)", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En septembre, les températures varient entre 18 et 25°C. Prévoir des couches, un imperméable et un maillot de bain.", "symbole": "🌦️" },
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées, mais un peu de liquide est utile pour les petits commerces.", "symbole": "💳" },
+    { "titre": "La location de voiture est fortement recommandée pour explorer l'île. Conduite à droite, routes sinueuses.", "symbole": "🚗" },
+    { "titre": "Le portugais est la langue officielle, mais l'anglais est parlé dans les zones touristiques. Un adaptateur de type F est nécessaire pour les prises électriques.", "symbole": "🗣️" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Les Açores sont l'un des rares endroits en Europe où l'on cultive le thé. La plantation de Gorreana produit du thé noir et vert depuis 1883."
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "Le \"Cozido das Furnas\" est un plat mijoté pendant des heures dans des marmites enfouies sous terre, utilisant la chaleur géothermique des volcans. Un vrai festin souterrain!"
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍲",
+      "titre": "Cozido das Furnas",
+      "description": "Un ragoût de viandes et légumes cuit lentement dans le sol volcanique, une expérience culinaire unique."
+    },
+    {
+      "symbole": "🍞",
+      "titre": "Bolo Lêvedo",
+      "description": "Un pain doux et légèrement sucré, parfait pour le petit-déjeuner ou en accompagnement de plats salés."
+    },
+    {
+      "symbole": "🧀",
+      "titre": "Queijo da Ilha",
+      "description": "Un fromage de vache à pâte dure ou semi-dure, affiné, avec une saveur intense et légèrement piquante."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/ORD-PDL/2026-09-10/2026-09-16", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Azores", "url": "https://www.visitazores.com/fr", "symbole": "📘" },
+    { "legende": "Location de voiture", "titre": "Rentalcars Açores", "url": "https://www.rentalcars.com/fr/country/pt/azores/", "symbole": "🚗" },
+    { "legende": "Météo", "titre": "IPMA (Météo Portugal)", "url": "https://www.ipma.pt/pt/otempo/prev.local/index.jsp?localID=1&cidadeID=1", "symbole": "🌤️" }
+  ]
+}
